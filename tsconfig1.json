@@ -1,0 +1,29 @@
+[
+  {
+    "PublishingHouseId": 2,
+    "Title": "Algebra 8",
+    "PublishingHouse": {
+      "Id": 2,
+      "Name": "Gymnasium",
+      "Adress": "Address 2"
+    }
+  },
+  {
+    "PublishingHouseId": 1,
+    "Title": "The diary of neurosurgeon",
+    "PublishingHouse": {
+      "Id": 1,
+      "Name": "Old Lion's Publishing house",
+      "Adress": "Address 1"
+    }
+  },
+  {
+    "PublishingHouseId": 2,
+    "Title": "Algebra 9",
+    "PublishingHouse": {
+      "Id": 2,
+      "Name": "Gymnasium",
+      "Adress": "Address 2"
+    }
+  }
+]
